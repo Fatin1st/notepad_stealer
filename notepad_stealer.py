@@ -1,5 +1,5 @@
-# Inspired-By: John Hammond (https://www.youtube.com/@_JohnHammond)
 # Author: Md. Fatin Hasnat (https://fatinhasnat.com/)
+# Inspired-By: John Hammond (https://www.youtube.com/@_JohnHammond)
 
 import os
 import glob
