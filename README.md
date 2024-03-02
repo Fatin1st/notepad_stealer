@@ -1,7 +1,7 @@
-
 # Notepad Stealer
 
 This info stealer malware steals all the text from the victim's notepad sessions (both saved and unsaved)
+![Screenshot](https://github.com/Fatin1st/notepad_stealer/blob/main/screenshot.png)
 
 #### [Video Demonstration by John Hammond ⭐](https://www.youtube.com/watch?v=zSSBbv2fc2s)
 
